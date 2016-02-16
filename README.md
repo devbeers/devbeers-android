@@ -1,2 +1,3 @@
-# Devbeers Checkin
-Android app to make check-in of the people that was present in a devbeers event! :beer:
+# devbeers Checkin
+
+Android app to make check-in of the people that were present in a devbeers event! :beer:
